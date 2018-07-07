@@ -1,0 +1,9 @@
+安装Ubuntu的要点：
+从win10分出磁盘空间
+制作u盘启动盘
+安装Ubuntu
+如果重启不能开机 在引导界面 按e 进入 在quiet slah。。。 后加上acpi_osi=linux nomodeset 
+在重启开机 后在引导文件加上这个 避免每次开机都要输（如果安装了n卡驱动 那么则把这句话删除 不然开不了机）
+安装常用软件：
+vscode sublime 网易云音乐 xmind等
+nginx 服务器 mysql php gcc g++；
